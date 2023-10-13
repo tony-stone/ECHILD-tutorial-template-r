@@ -1,0 +1,13 @@
+Package: ECHILD-tutorial-template-r
+Title: ECHILD Tutorial template - R flavour
+Version: 0.0.0.9000
+Authors@R: 
+    person("Tony", "Stone", , "tony-stone@users.noreply.github.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-0167-3800"))
+Description: 
+    A template on which to build ECHILD tutorials highlighting implementations 
+    in R.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.0.0
